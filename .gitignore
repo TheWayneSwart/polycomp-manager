@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+firmware/
+winapp/dist/
+winapp/cmd/polycomp-gui/*.syso
+docs/gtxc-protocol-2008-archive.html

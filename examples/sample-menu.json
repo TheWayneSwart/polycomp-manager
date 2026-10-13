@@ -1,0 +1,15 @@
+{
+  "pages": [
+    {
+      "layout": 3,
+      "rows": [
+        {"text": "Coffee R25", "colour": 0, "flash": false, "wide": false, "align": 1},
+        {"text": "<-- Open", "colour": 1, "flash": true, "wide": false, "align": 1},
+        {"text": "", "colour": 0, "flash": false, "wide": false, "align": 0},
+        {"text": "", "colour": 0, "flash": false, "wide": false, "align": 0}
+      ],
+      "effect": 1,
+      "tempo": 2
+    }
+  ]
+}
